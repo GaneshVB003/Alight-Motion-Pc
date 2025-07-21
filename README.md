@@ -24,6 +24,15 @@ So we said: *“fuck it, let’s build our own.”*
 - 🧩 Import from Alight Motion `.xml` (future goal)
 
 ---
+## 🚀 Quick Start (No Setup Needed)
+
+1. Press `.` on your keyboard when viewing this repo on GitHub — it opens the full code editor in your browser (via GitHub.dev).
+2. Or clone locally:
+   ```bash
+   git clone https://github.com/GaneshVB003/Alight-Motion-Pc.git
+   cd Alight-Motion-Pc
+   npm install
+   npm run dev
 
 ## 🛠️ Tech Stack
 
