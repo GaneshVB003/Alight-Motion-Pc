@@ -1,4 +1,3 @@
-# Alight-Motion-Pc
 # 🌀 Alight-Motion-PC (Open Source)
 
 > 💻 An open-source desktop motion graphics & video editing tool inspired by Alight Motion — made for AMV editors, mobile creators, and low-spec warriors.
