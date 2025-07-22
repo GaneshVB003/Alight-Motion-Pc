@@ -49,7 +49,7 @@ So we said: *“fuck it, let’s build our own.”*
 ##  How to Run (Dev Mode)
 
 ```bash
-git clone https://github.com/yourusername/Alight-Motion-PC
+git clone https://github.com/ganeshvb003/Alight-Motion-PC
 cd Alight-Motion-PC
 npm install
 npm start
